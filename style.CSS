@@ -27,6 +27,7 @@ main {
     width: 300px;
     margin-top: 26px;
     text-align: center;
+    font-size: 25px;
     font-weight:700;
     color: hsl(218, 44%, 22%);
 }
